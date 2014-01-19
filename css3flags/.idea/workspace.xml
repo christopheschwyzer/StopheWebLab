@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9058712-398a-42d2-9af1-59140cc93c3b" name="Default" comment="add main.less,  adjust basic index.html">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/flags.css" afterPath="$PROJECT_DIR$/css/flags.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/flags.less" afterPath="$PROJECT_DIR$/css/flags.less" />
+    </list>
+    <ignored path="css3flags.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/.name" />
+    <ignored path=".idea/" />
+    <file path="/Dummy.txt" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377254554766" ignored="false" />
+    <file path="/index.html" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372474276778" ignored="false" />
+    <file path="/flags.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374228753890" ignored="false" />
+    <file path="/main.css" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372473034697" ignored="false" />
+    <file path="/main.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372474477465" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/dev/deploy/configs/dev/www/default.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372700127982" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/dev/deploy/configs/production/www/default.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372700127982" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/dev/deploy/configs/staging/www/default.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372700127982" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/resources/config/default.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373565737118" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/SiteAnnouncements/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372700127982" ignored="false" />
+    <file path="/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374580107448" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/SiteAnnouncements/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372700127982" ignored="false" />
+    <file path="/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374574316229" ignored="false" />
+    <file path="/dummy.xml" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373565528789" ignored="false" />
+    <file path="/dummy.txt" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372524992882" ignored="false" />
+    <file path="/a.dummy" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374581536372" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/Index2/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372699725611" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/Index2/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372699835937" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Component/Index2.js" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372699943006" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Component/Index2.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372699923520" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Component/Index3.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372699961913" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Component/Index3.js" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372699982395" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/Index3/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372700017867" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Page/Index/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373128779710" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Component/Index1.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372871128359" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/Index1/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372700964746" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/SK/library/SK/PaymentProvider/Abstract.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373128779710" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/resources/db/update/651.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372701893305" ignored="false" />
+    <file path="/651.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372701891185" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/mobile/Page/Index/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372714245906" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/SK/layout/default/Component/Chat/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372801468177" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/Share/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372784374981" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/Share/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372784373297" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/SK/layout/default/Component/Payment_Wts/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372784374981" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/SK/layout/default/css/function.serviceBundle.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372784374981" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/HeaderBar/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372786301897" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/SK/layout/default/Component/Chat/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372801468177" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/SK/library/SK/Component/Chat.js" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372801468177" ignored="false" />
+    <file path="/Chat.js" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372798749603" ignored="false" />
+    <file path="/default.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373565737118" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/SK/library/SK/Component/Chat.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372801468177" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Component/PaymentSelection.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372871177712" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/PaymentSelection/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372871187719" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/SK/layout/default/Component/ProfileDetails/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372870686393" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/ProfileDetails/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372870686393" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Page/Index.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372879525341" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/resources/db/update/652.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372874199945" ignored="false" />
+    <file path="/652.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372874164632" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Component/Index1.js" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372871154597" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/Index/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373318051385" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/Navigation/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373318154331" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Component/Navigation.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373128779710" ignored="false" />
+    <file path="/Navigation.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372878996125" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Component/Index.js" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373128779710" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Component/Index/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372879525341" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Component/Index.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1372879525341" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/library/FB/Menu/Browse.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373117744071" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/SK/library/SK/User.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373128779710" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/resources/db/update/653.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373318051385" ignored="false" />
+    <file path="/653.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1373137753563" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/www/library/FB/layout/default/Page/Feed/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374228801571" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/resources/db/update/653.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374316445866" ignored="false" />
+    <file path="/655.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374316454147" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/resources/db/update/655.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374316524802" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/resources/db/update/661.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374490903059" ignored="false" />
+    <file path="/661.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374490830512" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Mail/ServiceBundleExpiration/body.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374573352083" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/resources/db/update/662.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374571240606" ignored="false" />
+    <file path="/662.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374571167449" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/Index/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374573352083" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/Welcome/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374573352083" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Mail/Reactivation_First/subject.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374573352083" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Mail/Reactivation_Second/subject.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374573352083" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Mail/Reactivation_Third/subject.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374573352083" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/UserList_Abstract/mini.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374577766771" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/vendor/cargomedia/CM/layout/default/css/mixins.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377254558899" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/resources/config/local.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374573589179" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/ProfileProgress/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374577766771" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/UserList_Abstract/tiles.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377246732624" ignored="false" />
+    <file path="/tiles.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374576928889" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/UserList_Abstract/mini.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="/mini.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374577025652" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/UserInteraction/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/Feed/item/2.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/Admin/layout/default/css/box.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/tests/library/FB/Component/ConversationList/MailboxTest.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/css/box.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377246732624" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/Feed/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/tests/library/FB/Component/FeedTest.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/tests/library/FB/Page/PinboardsTest.php" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/library/FB/Component/UserList/FriendsVisible.js" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/PhotoView/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377246732624" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/EntityList_Abstract/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/Admin/layout/default/Component/EntertainmentSchedule/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/Admin/layout/default/Component/EntertainmentScheduleList/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/Feed/item/4.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/Feed/item/3.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/BlogpostView/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/PaymentSelection/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/Feed/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/BlogpostList_Abstract/mini.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/UserInteraction/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/VideoList_Abstract/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/UserList_Abstract/cards.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/UserList_Abstract/micro.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/ConversationList_Abstract/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/Admin/layout/default/Component/ServiceBundleSetList/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/VideoList_Abstract/mini.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/EntityList_Abstract/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/PhotoList_Abstract/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/PhotoList_Abstract/mini.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/MemberFeedback/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/BlogpostList_Abstract/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/PinboardList_Abstract/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/VideoView/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/PhotoView/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/TagNavigator/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/Comments/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/EntityList_Search/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/Feed/item/2.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/CoinTransactionList_Abstract/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/layout/default/Component/ShowArchiveList_Abstract/default.tpl" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582325439" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/SK/library/SK/Component/VideoScene.js" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374579559104" ignored="false" />
+    <file path="/box.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374581935750" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/BlogpostList_Abstract/mini.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377246732624" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/VideoList_Abstract/mini.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377246732624" ignored="false" />
+    <file path="/mini.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374582469616" ignored="false" />
+    <file path="/mixins.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1374599897011" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/library/FB/layout/default/Component/SiteAnnouncements/default.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377246732624" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/vendor/cargomedia/CM/client-vendor/after-body/mediaelement/mediaelement-and-player.js" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377254558899" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/vendor/cargomedia/CM/client-vendor/after-body/mediaelement/mediaelementplayer.css" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377254558899" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/vendor/cargomedia/CM/layout/default/css/mediaelement.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377254558899" ignored="false" />
+    <file path="$PROJECT_DIR$/../fuboo/vendor/cargomedia/CM/layout/default/css/form.less" changelist="d9058712-398a-42d2-9af1-59140cc93c3b" time="1377254558899" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="css3flags" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="11" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="102" column="30" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1372474535000" expanded="true" signature="756:787" placeholder="{...}" />
+                <marker date="1372474535000" expanded="true" signature="806:885" placeholder="{...}" />
+                <marker date="1372474535000" expanded="true" signature="834:854" placeholder="{...}" />
+                <marker date="1372474535000" expanded="true" signature="860:875" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flags.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/flags.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="4499" selection-end="4499" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flags.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/flags.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="169" column="0" selection-start="4321" selection-end="4321" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.less" />
+        <option value="$PROJECT_DIR$/css/flags.less" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/Applications/SimpLESS.app" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9058712-398a-42d2-9af1-59140cc93c3b" name="Default" comment="" />
+      <created>1372470599936</created>
+      <updated>1372470599936</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit. add html5 boilerplate">
+      <created>1372470890840</created>
+      <updated>1372470890840</updated>
+    </task>
+    <task id="LOCAL-00002" summary="basic markup. added flags (ch, fr, us, pl, de, ru, jp)">
+      <created>1372471665376</created>
+      <updated>1372471665376</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add favicon, apple touch icon, logo">
+      <created>1372474785969</created>
+      <updated>1372474785969</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add main.less,  adjust basic index.html">
+      <created>1372474836958</created>
+      <updated>1372474836958</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="878" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998997" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26307365" sideWeight="0.67001003" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="add main.less,  adjust basic index.html" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="initial commit. add html5 boilerplate" />
+    <MESSAGE value="basic markup. added flags (ch, fr, us, pl, de, ru, jp)" />
+    <MESSAGE value="add favicon, apple touch icon, logo" />
+    <MESSAGE value="add main.less,  adjust basic index.html" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/flags.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="0" selection-start="3417" selection-end="3417" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="11" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="30" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372474535000" expanded="true" signature="756:787" placeholder="{...}" />
+            <marker date="1372474535000" expanded="true" signature="806:885" placeholder="{...}" />
+            <marker date="1372474535000" expanded="true" signature="834:854" placeholder="{...}" />
+            <marker date="1372474535000" expanded="true" signature="860:875" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flags.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="4499" selection-end="4499" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flags.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="0" selection-start="2978" selection-end="2978" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="11" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372474535000" expanded="true" signature="756:787" placeholder="{...}" />
+            <marker date="1372474535000" expanded="true" signature="806:885" placeholder="{...}" />
+            <marker date="1372474535000" expanded="true" signature="834:854" placeholder="{...}" />
+            <marker date="1372474535000" expanded="true" signature="860:875" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flags.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="4499" selection-end="4499" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="30" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flags.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="0" selection-start="2978" selection-end="2978" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="11" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="30" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="-0.0">
+          <folding>
+            <marker date="1372474535000" expanded="true" signature="756:787" placeholder="{...}" />
+            <marker date="1372474535000" expanded="true" signature="806:885" placeholder="{...}" />
+            <marker date="1372474535000" expanded="true" signature="834:854" placeholder="{...}" />
+            <marker date="1372474535000" expanded="true" signature="860:875" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flags.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="169" column="0" selection-start="4321" selection-end="4321" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flags.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="4499" selection-end="4499" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

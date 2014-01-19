@@ -1,0 +1,8 @@
+body {
+	background-color: black;
+}
+
+video {
+	display: block;
+	margin: 30px auto;
+}

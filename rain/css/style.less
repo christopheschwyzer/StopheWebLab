@@ -1,0 +1,298 @@
+/* reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	outline: 0;
+}
+
+:focus {
+	outline: 0;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+select {
+	margin: 0;
+}
+
+//Variables
+
+@color: #333;
+@colorBg: #ffffff;
+
+//Mixins
+.clearfix {
+	*zoom: 1;
+	display: block;
+
+	&:before, &:after {
+		display: table;
+		content: "";
+	}
+	&:after {
+		clear: both;
+	}
+}
+
+.nowrap {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.quote {
+	font-style: italic;
+	&:before {
+		content: "«";
+	}
+	&:after {
+		content: "»";
+	}
+}
+
+.transform(@args) {
+	-webkit-transform: @args;
+	-moz-transform: @args;
+	-o-transform: @args;
+	-ms-transform: @args;
+	transform: @args;
+}
+
+.transition-transform(@args) {
+	-webkit-transition: -webkit-transform @args;
+	-moz-transition: -moz-transform @args;
+	-ms-transition: -ms-transform @args;
+	-o-transition: -o-transform @args;
+	transition: transform @args;
+}
+
+.box-shadow(@args) {
+	-moz-box-shadow: @args;
+	-webkit-box-shadow: @args;
+	box-shadow: @args;
+}
+
+.background-gradient(@args) {
+	background: -moz-linear-gradient(@args);
+	background: -webkit-linear-gradient(@args);
+	background: -o-linear-gradient(@args);
+	background: -ms-linear-gradient(@args);
+}
+
+
+.arrow {
+	display: block;
+	width: 0;
+	height: 0;
+	border: 8px solid transparent;
+
+	&.top {
+		border-bottom-color: @color;
+		border-bottom-width: 12px;
+	}
+	&.down {
+		border-top-color: @color;
+		border-top-width: 12px;
+	}
+	&.right {
+		border-left-color: @color;
+		border-left-width: 12px;
+	}
+	&.left {
+		border-right-color: @color;
+		border-right-width: 12px;
+	}
+}
+
+//Stophe Styles
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.5;
+	overflow: hidden;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	line-height: 1.5;
+	color: @color;
+}
+
+a {
+	color: lighten(@color, 40);
+	text-decoration: none;
+
+	&:hover {
+		color: @color;
+	}
+}
+
+.sheet {
+	margin: 0 auto;
+	min-width: 260px;
+	max-width: 1048px;
+	padding: 0 20px;
+}
+
+
+// Rain Experiment
+
+@size: 2px;
+@colorRain: rgba(0, 70, 70, .3);
+@colorRain: rgba(200, 255, 255, .3);
+
+body{
+	background-color: rgba(0, 20, 20, .3);
+}
+
+.drop{
+	position: absolute;
+	left: 0px;
+	top: @size*-1px;
+	width: @size;
+	height: @size*45;
+	background-color: rgba(0, 120, 120, 0.9);
+//	.background-gradient(top, rgba(0, 120, 120, 0), rgba(0, 120, 120, .6));
+	background: -webkit-linear-gradient(top, fadeout(@colorRain, 100), @colorRain);
+	.box-shadow(0 -3px 9px fadeout(@colorRain, 40));
+	border-radius: 0px @size/2 @size/2 @size/2;
+	transform: rotate(45deg);
+}
+.state{
+	font-size: 10px;
+	font-family: tahoma;
+	color: #333;
+}
+
+h1 {
+	font-size: 120px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color: rgba(255, 255, 255, .4);
+	text-shadow: 5px 5px rgba(0,0,0, .2);
+	position: absolute;
+	width: 100%;
+	top: 50%;
+	margin-top: -60px;
+
+}
+
+//Clouds
+#viewport {
+	-webkit-perspective: 1000;
+	-moz-perspective: 1000;
+	-o-perspective: 1000;
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	overflow: hidden;
+	background-image: linear-gradient(bottom, rgb(69,132,180) 28%, rgb(31,71,120) 64%);
+	background-image: -o-linear-gradient(bottom, rgb(69,132,180) 28%, rgb(31,71,120) 64%);
+	background-image: -moz-linear-gradient(bottom, rgb(69,132,180) 28%, rgb(31,71,120) 64%);
+	background-image: -webkit-linear-gradient(bottom, rgb(69,132,180) 28%, rgb(31,71,120) 64%);
+	background-image: -ms-linear-gradient(bottom, rgb(69,132,180) 28%, rgb(31,71,120) 64%);
+
+	background-image: -webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0.28, rgb(69,132,180)),
+		color-stop(0.64, rgb(31,71,120))
+	);
+
+	background-image: url(../img/rain.jpeg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+#world {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -256px;
+	margin-top: -256px;
+	height: 512px;
+	width: 512px;
+//	background-color: rgba( 255, 0, 0, .2 );
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+}
+
+#world div {
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+}
+
+.cloudBase {
+//	background-color: rgba( 255, 0, 255, .5 );
+	position: absolute;
+	left: 256px;
+	top: 256px;
+	width: 20px;
+	height: 20px;
+	margin-left: -10px;
+	margin-top: -10px;
+}
+
+.cloudLayer {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 256px;
+	height: 256px;
+	margin-left: -128px;
+	margin-top: -128px;
+//	background-color: rgba( 0, 255, 255, .1 );
+	-webkit-transition: opacity .5s ease-out;
+	-moz-transition: opacity .5s ease-out;
+	-o-transition: opacity .5s ease-out;
+}

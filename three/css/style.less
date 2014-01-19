@@ -1,0 +1,178 @@
+/* reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	outline: 0;
+}
+
+:focus {
+	outline: 0;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+select {
+	margin: 0;
+}
+
+//Variables
+
+@color: #333;
+@colorBg: #ffffff;
+
+//Mixins
+.clearfix {
+	*zoom: 1;
+	display: block;
+
+	&:before, &:after {
+		display: table;
+		content: "";
+	}
+	&:after {
+		clear: both;
+	}
+}
+
+.nowrap {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.quote {
+	font-style: italic;
+	&:before {
+		content: "«";
+	}
+	&:after {
+		content: "»";
+	}
+}
+
+.transform(@args) {
+	-webkit-transform: @args;
+	-moz-transform: @args;
+	-o-transform: @args;
+	-ms-transform: @args;
+	transform: @args;
+}
+
+.transition-transform(@args) {
+	-webkit-transition: -webkit-transform @args;
+	-moz-transition: -moz-transform @args;
+	-ms-transition: -ms-transform @args;
+	-o-transition: -o-transform @args;
+	transition: transform @args;
+}
+
+.box-shadow(@args) {
+	-moz-box-shadow: @args;
+	-webkit-box-shadow: @args;
+	box-shadow: @args;
+}
+
+.background-gradient(@args) {
+	background: -moz-linear-gradient(@args);
+	background: -webkit-linear-gradient(@args);
+	background: -o-linear-gradient(@args);
+	background: -ms-linear-gradient(@args);
+}
+
+
+.arrow {
+	display: block;
+	width: 0;
+	height: 0;
+	border: 8px solid transparent;
+
+	&.top {
+		border-bottom-color: @color;
+		border-bottom-width: 12px;
+	}
+	&.down {
+		border-top-color: @color;
+		border-top-width: 12px;
+	}
+	&.right {
+		border-left-color: @color;
+		border-left-width: 12px;
+	}
+	&.left {
+		border-right-color: @color;
+		border-right-width: 12px;
+	}
+}
+
+// mine
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.5;
+	background-color: rgba(0, 20, 20, .3);
+	position: relative;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	line-height: 1.5;
+	color: @color;
+}
+
+a {
+	color: lighten(@color, 40);
+	text-decoration: none;
+
+	&:hover {
+		color: @color;
+	}
+}
+
+
+canvas {
+	margin: 0 auto;
+	display: block;
+}

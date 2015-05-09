@@ -1,0 +1,29 @@
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+.iconList {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.icon {
+	margin: 5px;
+	padding: 10px;
+	background-color: #f3f3f3;
+	border: 1px solid #d5d5d5;
+}
+
+.icon-image {
+	width: 100px;
+	height: 100px;
+}
